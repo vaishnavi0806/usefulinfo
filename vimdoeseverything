@@ -1,3 +1,17 @@
+Vim is modal editor:
+
+Normal mode
+Insert mode
+
+Normal mode: Enter normal mode by Esc
+jkhl: j-down k-up h-left l-right
+x: delete the char
+u: undo
+y: yank
+p: paste
+
+
+
 #FOLD:
 
 #https://vim.fandom.com/wiki/Folding
