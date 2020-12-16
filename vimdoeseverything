@@ -16,8 +16,12 @@ p: paste
 
 #https://vim.fandom.com/wiki/Folding
 
-set foldmethod=syntax
+:set foldmethod=syntax
 zc - close fold
 zo - open fold
 
 TO-DO: update the docs
+
+#80 char Vertical line
+
+:set colorcolumn=80
